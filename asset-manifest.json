@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paras-mehra/todo-app/static/css/main.ef7d4843.css",
+    "main.js": "/paras-mehra/todo-app/static/js/main.47c5c628.js",
+    "index.html": "/paras-mehra/todo-app/index.html",
+    "main.ef7d4843.css.map": "/paras-mehra/todo-app/static/css/main.ef7d4843.css.map",
+    "main.47c5c628.js.map": "/paras-mehra/todo-app/static/js/main.47c5c628.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef7d4843.css",
+    "static/js/main.47c5c628.js"
+  ]
+}
